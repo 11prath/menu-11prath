@@ -62,7 +62,7 @@ function Menu() {
         </button>
 
         <button id="filter-btn-2" onClick={() => filterItems("lunch")}>
-          Lunch
+          Lunch 
         </button>
 
         <button id="filter-btn-3" onClick={() => filterItems("shakes")}>
